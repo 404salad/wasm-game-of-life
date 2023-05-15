@@ -1,0 +1,1 @@
+/home/thecuber/coding/rust/webassembly/wasm-game-of-life/target/debug/libwasm_game_of_life.so: /home/thecuber/coding/rust/webassembly/wasm-game-of-life/src/lib.rs /home/thecuber/coding/rust/webassembly/wasm-game-of-life/src/utils.rs
